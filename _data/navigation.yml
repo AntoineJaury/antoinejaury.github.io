@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "App Android natives"
+    url: /android/
+  - title: "Kotlin Multiplatform"
+    url: /kmp/
+  - title: "Gestion de projets"
+    url: /gestion-de-projets/
+  - title: "Performances"
+    url: /performances/
