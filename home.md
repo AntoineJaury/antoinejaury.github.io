@@ -1,6 +1,12 @@
 ---
 permalink: /
 title: "Développeur Android freelance & chef de projets app mobiles"
+header: 
+  overlay_image: /assets/images/banner.jpg
+  overlay_filter: rgba(28, 159, 77, 0.8)
+  actions:
+    - label: "Contacter par email"
+      url: "mailto:antoine@jaury.eu"
 ---
 
 [Développeur senior freelance d'applications Android natives en Kotlin](/android) & [chef de projet développement app mobile](/gestion-de-projets), j'accompagne les projets numériques autour du bassin morbihannais (Auray, Vannes, Lorient ...), et plus largement sur la Bretagne et les Pays de la Loire.

@@ -7,6 +7,7 @@ search: false
 
 $linkedin-color: #222831;
 $github-color: #222832;
+$primary-color: #279C50 !default;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
