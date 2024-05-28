@@ -64,7 +64,7 @@ plugins:
 
 author:
   name   : "Antoine Jaury"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio-photo.webp"
   bio    : "Développeur indépendant d'applications Android natives (Kotlin), en Bretagne."
   location : "Auray, Morbihan (56)"
   links:
