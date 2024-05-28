@@ -1,6 +1,6 @@
 ---
-permalink: /gestion-de-projets/
-title: "Gestion de projets - applications mobiles"
+permalink: /gestion-de-projet/
+title: "Gestion de projet - applications mobiles"
 ---
 
 Méticuleux, méthodique, et avec une connaissance de l'ensemble des processus de développement d'applications mobiles Android et iOS, je vous aide à atteindre vos objectifs en encadrant vos équipes de développement.

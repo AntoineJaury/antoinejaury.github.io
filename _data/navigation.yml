@@ -3,7 +3,7 @@ main:
     url: /android/
   - title: "Kotlin Multiplatform"
     url: /kmp/
-  - title: "Gestion de projets"
-    url: /gestion-de-projets/
+  - title: "Gestion de projet"
+    url: /gestion-de-projet/
   - title: "Performances"
     url: /performances/

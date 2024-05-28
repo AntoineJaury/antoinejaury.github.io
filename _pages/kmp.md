@@ -34,4 +34,4 @@ Pour limiter ces risques et remédier à ces surcoûts, il existe des solutions 
 
 Je travaille régulièrement avec les mêmes collègues, indépendants également, qui ont des compétences complémentaires (développement iOS, design d'application UI/UX). Nous avons ensemble développé nos méthodes et outils de travail afin d'optimiser notre travail en équipe, d'améliorer notre communication et de proposer une meilleure qualité sur les produits réalisés.
 
-Si votre besoin va au-delà du développement d'une application Android, je peux ainsi vous proposer des profils freelance complémentaires. Vous vous dotez ainsi d'une [équipe de développement d'applications mobiles](/gestion-de-projets) au complet et déjà rodée.
+Si votre besoin va au-delà du développement d'une application Android, je peux ainsi vous proposer des profils freelance complémentaires. Vous vous dotez ainsi d'une [équipe de développement d'applications mobiles](/gestion-de-projet) au complet et déjà rodée.
