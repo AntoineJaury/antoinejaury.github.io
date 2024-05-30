@@ -29,7 +29,7 @@ locale: "fr-FR"
 search: false
 
 # SEO
-google-site-verification: "Z-Lgxv606hPKR6oVY_Tvy_3T8vzcZwCPHERm_k4dv-c"
+google_site_verification: "Z-Lgxv606hPKR6oVY_Tvy_3T8vzcZwCPHERm_k4dv-c"
 og_image: /assets/images/bio-photo.png
 
 # Build settings
