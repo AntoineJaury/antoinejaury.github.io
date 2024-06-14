@@ -2,7 +2,7 @@
 permalink: /
 title: "Développeur Android freelance & chef de projet app mobiles"
 header: 
-  overlay_image: /assets/images/banner.webp
+  overlay_image: /assets/images/banner.jpg
   overlay_filter: rgba(28, 159, 77, 0.8)
   actions:
     - label: "Contacter par email"
